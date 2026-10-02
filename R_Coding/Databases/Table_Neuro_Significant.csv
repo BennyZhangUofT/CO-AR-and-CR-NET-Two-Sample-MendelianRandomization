@@ -1,0 +1,8 @@
+Exposure (Taxonomy),OR (95% CI),Effect Size ($\beta$),Standard Error (SE),P-value,nSNP,Cochran's Q,Q P-value
+genus RuminococcaceaeNK4A214group,2.82 (1.48–5.36),1.0358,0.3282,0.0016,13,4.29,0.9776
+genus Haemophilus,1.94 (1.13–3.34),0.6632,0.2769,0.0166,9,8.42,0.3939
+genus LachnospiraceaeUCG001,1.87 (1.10–3.17),0.6272,0.2691,0.0198,12,8.34,0.6822
+genus Prevotella7,1.53 (1.07–2.18),0.4244,0.1822,0.0199,11,6.52,0.7695
+genus RuminococcaceaeUCG014,0.53 (0.28–0.98),-0.6399,0.3156,0.0426,11,9.48,0.4874
+genus Olsenella,1.43 (1.01–2.03),0.3602,0.178,0.0430,11,6.8,0.7441
+genus Anaerostipes,2.06 (1.01–4.20),0.7223,0.3633,0.0468,13,4.8,0.9642

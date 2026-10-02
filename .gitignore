@@ -1,0 +1,27 @@
+# Large GWAS/data files
+data/
+*.gz
+*.bgz
+*.zip
+*.vcf
+*.vcf.gz
+*.bed
+*.bim
+*.fam
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Environment/secrets
+.env

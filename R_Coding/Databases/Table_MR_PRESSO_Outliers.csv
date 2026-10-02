@@ -1,0 +1,8 @@
+Exposure,Outcome,nSNP,Global RSS,Global P,Outliers (N),Outlier SNPs,Corrected OR,Corrected P,Distortion (%)
+class Actinobacteria,Adenocarcinoma,15,30.35,0.0080,2,"rs182549, rs4945008",1.18,0.0571,-43.8%
+family Bifidobacteriaceae,Adenocarcinoma,13,34.93,5.00e-04,3,"rs182549, rs4957061, rs13020688",1.32,0.0048,-15.3%
+family Pasteurellaceae,Neuroendocrine,14,21.91,0.0530,2,"rs78909003, rs9938097",1.02,0.9411,-78.6%
+genus  Eubacteriumxylanophilumgroup,Adenocarcinoma,9,18.4,0.0220,3,"rs2012708, rs10140184, rs75586835",0.99,0.9533,-108.4%
+genus Actinomyces,Neuroendocrine,7,11.36,0.0825,1,rs2715439,0.88,0.7329,-225.3%
+order Bifidobacteriales,Adenocarcinoma,13,34.93,5.00e-04,3,"rs182549, rs4957061, rs13020688",1.32,0.0048,-15.3%
+order Pasteurellales,Neuroendocrine,14,21.91,0.0530,2,"rs78909003, rs9938097",1.02,0.9411,-78.6%

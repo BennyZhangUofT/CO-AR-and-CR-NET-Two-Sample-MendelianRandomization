@@ -1,0 +1,31 @@
+PLINK v2.0.0-a.6.5 M1 (22 Dec 2024)
+Options in effect:
+  --clump tmp_GENAL/494d3dda_to_clump.txt
+  --clump-kb 10000
+  --clump-p1 1e-05
+  --clump-p2 1e-05
+  --clump-r2 0.001
+  --memory 13107
+  --out tmp_GENAL/494d3dda
+  --pfile /Users/benny/.genal/Reference_files/EUR_37/EUR_37
+  --rm-dup force-first
+
+Hostname: Benjamins-MacBook-Air-4.local
+Working directory: /Users/benny/Documents/LINA PROJECT/R_Coding
+Start time: Thu Oct  1 04:27:05 2026
+
+Random number seed: 1790843225
+16384 MiB RAM detected; reserving 13107 MiB for main workspace.
+Using up to 8 compute threads.
+503 samples (0 females, 0 males, 503 ambiguous; 503 founders) loaded from
+/Users/benny/.genal/Reference_files/EUR_37/EUR_37.psam.
+70016995 variants loaded from
+/Users/benny/.genal/Reference_files/EUR_37/EUR_37.pvar.
+Note: No phenotype data present.
+Note: Skipping --rm-dup since no duplicate IDs are present.
+Warning: 1 top variant ID in --clump file missing from main dataset.  ID
+written to tmp_GENAL/494d3dda.clumps.missing_id .
+--clump: 10 clumps formed from 18 index candidates.
+Results written to tmp_GENAL/494d3dda.clumps .
+
+End time: Thu Oct  1 04:27:12 2026
